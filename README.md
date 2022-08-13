@@ -7,9 +7,9 @@ In this assignment I built and evaluated several machine learning models to pred
 
 ## Files
 
-[Resampling Notebook](Starter_Code/credit_risk_resampling.ipynb)
+[Resampling Notebook](credit_risk_resampling.ipynb)
 
-[Ensemble Notebook](Starter_Code/credit_risk_ensemble.ipynb)
+[Ensemble Notebook](credit_risk_ensemble.ipynb)
 
 [Loans Data](Resources/LoanStats_2019Q1.csv)
 
